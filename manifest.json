@@ -1,0 +1,13 @@
+{
+  "currentVersion": 4,
+  "formatListVersion": 0,
+  "full": {
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/ELINEAUAnthony/OPTCG-Catalog/main/full-4.json.gz",
+    "sha256": "423c2738a285da8ec1301b18fc810e24924938456d1035d1f6af6ba1a79c5d37",
+    "bytes": 325170,
+    "thumbsUrl": null,
+    "thumbsBytes": null
+  },
+  "deltas": []
+}
