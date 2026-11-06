@@ -1,11 +1,11 @@
 {
-  "currentVersion": 5,
+  "currentVersion": 6,
   "formatListVersion": 0,
   "full": {
-    "version": 5,
-    "url": "https://raw.githubusercontent.com/ELINEAUAnthony/OPTCG-Catalog/main/full-5.json.gz",
-    "sha256": "cd99c6711ff24e99c5355226367ed339f7ff872fb248b96fbea568de96de0f88",
-    "bytes": 334646,
+    "version": 6,
+    "url": "https://raw.githubusercontent.com/ELINEAUAnthony/OPTCG-Catalog/main/full-6.json.gz",
+    "sha256": "c97a1819675f1aef94b76d3eac9e1e146dcecca31114b5464ee6e1ab07907f1a",
+    "bytes": 335861,
     "thumbsUrl": null,
     "thumbsBytes": null
   },
