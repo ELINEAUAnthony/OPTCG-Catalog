@@ -9,5 +9,11 @@
     "thumbsUrl": null,
     "thumbsBytes": null
   },
-  "deltas": []
+  "deltas": [],
+  "embeddings": {
+    "url": "https://raw.githubusercontent.com/ELINEAUAnthony/OPTCG-Catalog/main/embeddings-0213242056b1.bin",
+    "sha256": "0213242056b1aeb0348b762069f4f931f4eae1482983e0d194a6c437fe139d5a",
+    "bytes": 2365579,
+    "model": "card-embedder.tflite"
+  }
 }
